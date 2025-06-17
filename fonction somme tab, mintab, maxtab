@@ -3,5 +3,4 @@ main(
     mintab: int,
     maxtab: int
 ) -> int:
-    
 )
