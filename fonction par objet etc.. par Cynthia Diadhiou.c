@@ -8,3 +8,4 @@ sommeparobjet= somme+tab[i].montant;
    return sommeparobjet;
 }
 //Procédure factureparétudiant par Cynthia Murielle Diadhiou
+void  afficherfactureparétudiant()
