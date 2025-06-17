@@ -2,4 +2,6 @@ main(
     tab: list[int],
     mintab: int,
     maxtab: int
+) -> int:
+    
 )
